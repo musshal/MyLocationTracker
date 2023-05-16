@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Location Tracker</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="start_point">Start Point</string>
+    <string name="location_is_not_found_try_again">Location is not found. Try again</string>
+    <string name="you_have_to_activate_gps_to_use_this_app">You have to activate GPS to use this app!</string>
+    <string name="start_running">Start Running</string>
+    <string name="stop_running">Stop Running</string>
+</resources>
